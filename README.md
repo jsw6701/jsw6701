@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/iamericanartist/SlackMojis/blob/master/Emojis/slowparrot.gif" width="30"/> Hi! I'm glad to see you</h1>
 <p> Welcome to my page! </p>
-<p> I'm Jung Seung-woo, Aspiring backend developer</p><br><
+<p> I'm Jung Seung-woo, Aspiring backend developer</p><br>
 <p>
  ## ▎🛠 Tech Stacks <br><br>
  - Algorithm : 
