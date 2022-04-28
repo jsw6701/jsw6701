@@ -13,4 +13,4 @@
 <br><br>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jsw6701&show_icons=true&theme=cobalt">
 
-<img align="left" width = "30%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701">
+<img align="left" width = "35%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701">
