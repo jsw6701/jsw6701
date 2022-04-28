@@ -12,4 +12,5 @@
 
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jsw6701&show_icons=true&theme=cobalt">
-<img align="left" width="40%" src="github-readme-stats.vercel.app/api/top-langs/?username=jsw6701&langs_count=5">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701)](https://github.com/jsw6701/github-readme-stats)
