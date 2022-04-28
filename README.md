@@ -10,5 +10,8 @@
  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white" /><br>
 </p>
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=jsw6701&theme=dark&show_icons=true">](https://metrics.lecoq.io/jsw6701#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=jsw6701&show_icons=true">](https://metrics.lecoq.io/jsw6701#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-jsw6701.vercel.app/api?username=jsw6701&theme=dark&show_icons=true">](https://metrics.lecoq.io/jsw6701#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-jsw6701.vercel.app/api?username=jsw6701&show_icons=true">](https://metrics.lecoq.io/jsw6701#gh-light-mode-only)
+github-readme-stats.vercel.app/api/top-langs/?username={사용자명}&langs_count=8
+
+[<img align="left" width="50%" src="github-readme-stats.vercel.app/api/top-langs/?username=jsw6701&langs_count=8">]
