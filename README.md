@@ -10,7 +10,7 @@
  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white" /><br>
 </p>
 
-
+<br><br>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jsw6701&show_icons=true&theme=cobalt">
 
-<img align="left" width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701">
+<img align="left" width = "30%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701">
