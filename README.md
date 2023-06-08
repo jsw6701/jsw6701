@@ -4,20 +4,20 @@
   <p> Welcome to my page! </p> 
   <p> I'm Jung Seung-woo, Aspiring backend developer</p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&weight=500&size=30&pause=1000&color=E38CF7&center=true&vCenter=true&width=500&height=100&lines=Hi+there%2C+I'm+Glenn.;Backend+developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=78F724&center=true&vCenter=true&width=500&height=100&lines=Hi+there%2C+I'm+Glenn.;Backend+developer)](https://git.io/typing-svg)
 
   ![snake gif](https://github.com/jsw6701/jsw6701/blob/output/github-contribution-grid-snake-dark.svg)
 
   <p>
    ## ▎🛠 Tech Stacks <br><br>
    - Algorithm : 
-   <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-critical?style=flat-square&logo=JAVA&logoColor=white" /><br>
+   <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-critical?style=flat-square&logo=JAVA&logoColor=white" /><br><br>
    - BackEnd : 
    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-brightgreen?style=flat-square&logo=springboot&logoColor=white" />
-   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white" /><br>
-   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white" />
+   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <br><br>
    - Devops :
-
+    <br><br>
   </p>
 
   <br><br>
