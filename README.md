@@ -17,9 +17,9 @@
 
   ---
   ### DevOps
-  |  Github   |  Git   |  Intellij   | Docker & Docker-compose |  GCP   |   Uubuntu   |   Vmware    |    Heroku   |    CloudType   |
-  |:---------:|:------:|:-----------:|:-----------------------:|:------:|:-----------:|:-----------:|:-----------:|:--------------:|
-  | ![github] | ![git] | ![intellij] |        ![docker]        | ![gcp] |  ![ubuntu]  |  ![vmware]  |  ![heroku]  |  ![cloudtype]  |
+  |  Github   |  Git   |  Intellij   |  Docker |  GCP   |   Uubuntu   |   Vmware    |    Heroku   |    CloudType   |
+  |:---------:|:------:|:-----------:|:-------:|:------:|:-----------:|:-----------:|:-----------:|:--------------:|
+  | ![github] | ![git] | ![intellij] |![docker]| ![gcp] |  ![ubuntu]  |  ![vmware]  |  ![heroku]  |  ![cloudtype]  |
 
     ---
   ### Business Tools
