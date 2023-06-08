@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&weight=500&size=30&pause=1000&color=E38CF7&center=true&vCenter=true&width=500&height=100&lines=Hi+there%2C+I'm+Glenn.;Backend+developer)](https://git.io/typing-svg)
 
+![snake gif](https://github.com/jsw6701/jsw6701/blob/output/github-contribution-grid-snake.gif)
+
 <p>
  ## ▎🛠 Tech Stacks <br><br>
  - Algorithm : 
