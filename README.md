@@ -60,7 +60,7 @@
 [github]: /icon/github.png
 [git]: /icon/git.png
 [docker]: /icon/docker.png
-[cloudtype]: /icon/cloudtype.png
+[cloudtype]: /icon/cloudtype1.png
 [intellij]: /icon/intellij.png
 [slack]: /icon/slack.png
 [notion]: /icon/notion.png
