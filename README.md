@@ -15,21 +15,23 @@
   |:-------:|:--------:|:--------:|:-------------:|:--------:|:-------------:|
   | ![java] | ![mysql] |![mariadb]|  ![firebase]  |![kotlin] | ![springboot] |
 
-  ---
+---
+  
   ### DevOps
   |  Github   |  Git   |  Intellij   |  Docker |  GCP   |   Uubuntu   |   Vmware    |    Heroku   |    CloudType   |
   |:---------:|:------:|:-----------:|:-------:|:------:|:-----------:|:-----------:|:-----------:|:--------------:|
   | ![github] | ![git] | ![intellij] |![docker]| ![gcp] |  ![ubuntu]  |  ![vmware]  |  ![heroku]  |  ![cloudtype]  |
 
-    ---
+---
+  
   ### Business Tools
   |  Slack   |  Notion   |  Swagger   |  Discord   |
   |:--------:|:---------:|:----------:|:----------:|
   | ![slack] | ![notion] | ![swagger] | ![discord] |
 
 
-
 ---
+  
   <br><br>
 
   <img align="left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701&layout=compact&theme=cobalt">
