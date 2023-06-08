@@ -10,6 +10,10 @@
 
   ![snake gif](https://github.com/jsw6701/jsw6701/blob/output/github-contribution-grid-snake-dark.svg)
 
+  <br><br>
+  
+---
+  
   ### Application and Data
   |  Java   |  MySQL   |  MariaDB |    Firebase   |  Kotlin  |  Spring Boot  |
   |:-------:|:--------:|:--------:|:-------------:|:--------:|:-------------:|
