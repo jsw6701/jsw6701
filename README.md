@@ -10,18 +10,26 @@
 
   ![snake gif](https://github.com/jsw6701/jsw6701/blob/output/github-contribution-grid-snake-dark.svg)
 
-  <p>
-   ## ▎🛠 Tech Stacks <br><br>
-   - Algorithm : 
-   <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-critical?style=flat-square&logo=JAVA&logoColor=white" /><br><br>
-   - BackEnd : 
-   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-brightgreen?style=flat-square&logo=springboot&logoColor=white" />
-   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white" />
-   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <br><br>
-   - Devops :
-    <br><br>
-  </p>
+  ### Application and Data
+  |  Java   |  MySQL   |  MariaDB |    Firebase   |  Kotlin  |  Spring Boot  |
+  |:-------:|:--------:|:--------:|:-------------:|:--------:|:-------------:|
+  | ![java] | ![mysql] |![mariadb]|  ![firebase]  |![kotlin] | ![springboot] |
 
+  ---
+  ### DevOps
+  |  Github   |  Git   |  Intellij   | Docker & Docker-compose |  GCP   |   Uubuntu   |   Vmware    |    Heroku   |    CloudType   |
+  |:---------:|:------:|:-----------:|:-----------------------:|:------:|:-----------:|:-----------:|:-----------:|:--------------:|
+  | ![github] | ![git] | ![intellij] |        ![docker]        | ![gcp] |  ![ubuntu]  |  ![vmware]  |  ![heroku]  |  ![cloudtype]  |
+
+    ---
+  ### Business Tools
+  |  Slack   |  Notion   |  Swagger   |  Discord   |
+  |:--------:|:---------:|:----------:|:----------:|
+  | ![slack] | ![notion] | ![swagger] | ![discord] |
+
+
+
+---
   <br><br>
 
   <img align="left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701&layout=compact&theme=cobalt">
@@ -29,3 +37,25 @@
 
 
 </div>
+
+<!-- Stack Icon Refernces -->
+
+[springboot]: /icon/springboot.png
+[java]: /icon/java.png
+[mysql]: /icon/mysql.png
+[heroku]: /icon/heroku.png
+[swagger]: /icon/swagger.png
+[kotlin]: /icon/kotlin.png
+[vmware]: /icon/vmware.png
+[ubuntu]: /icon/ubuntu.png
+[firebase]: /icon/firebase.png
+[mariadb]: /icon/mariadb.png
+[gcp]: /icon/gcp.png
+[github]: /icon/github.png
+[git]: /icon/git.png
+[docker]: /icon/docker.png
+[cloudtype]: /icon/cloudtype.png
+[intellij]: /icon/intellij.png
+[slack]: /icon/slack.png
+[notion]: /icon/notion.png
+[discord]: /icon/discord.png
