@@ -38,8 +38,8 @@
   
   <br><br>
 
-  <img align="left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701&layout=compact&theme=chartreuse-dark">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jsw6701&show_icons=true&theme=chartreuse-dark">
+  <img align="left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701&layout=compact&theme=merko">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jsw6701&show_icons=true&theme=merko">
 
 
 </div>
