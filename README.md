@@ -3,6 +3,7 @@
 <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsw6701&count_bg=%23B185DB&title_bg=%2333004D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 <p> Welcome to my page! </p> 
 <p> I'm Aspiring backend developer</p>
+<P> 블로그와 포트폴리오 주소는 프로필 링크에 있습니다!</P>
   
 <div align="center">
   
