@@ -48,7 +48,11 @@
   <br><br><br><br>
   
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/jsw6701"/>
+    <img
+      src="https://render.gitanimals.org/farms/jsw6701"
+      width="600"
+      height="300"
+    />
   </a>
 
 </div>
