@@ -43,7 +43,7 @@
   <img align="left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6701&layout=compact&theme=merko">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jsw6701&show_icons=true&theme=merko">
 
-  <br><br>
+  <br><br><br><br>
   
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/jsw6701"/>
